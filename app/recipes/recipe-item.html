@@ -1,0 +1,63 @@
+<div class="row" id="nav-bar">
+	<div class="col-sm-2">
+        <select>
+          <option selected>Season</option>
+          <option ng-link="['SeasonRecipes', {season: 'summer'}]">Summer</option>
+          <option ng-link="['SeasonRecipes', {season: 'autumn'}]">Autumn</option>
+          <option ng-link="['SeasonRecipes', {season: 'winter'}]">Winter</option>
+          <option ng-link="['SeasonRecipes', {season: 'spring'}]">Spring</option>
+        </select>
+    </div>
+
+    <div class="col-sm-4">
+      <span>Search</span>
+        <input type="text" placeholder="...">
+    </div>
+
+    <div class="col-sm-2">
+        <div class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories</a>
+                <ul class="dropdown-menu">
+                   <li><a href="#">main</a></li>               
+                   <li><a href="#">second</a></li>            
+                   <li><a href="#">dessert</a></li>                               
+                </ul>
+        </div>
+
+    </div>
+
+    <div class="col-sm-2">
+      <div class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Difficulty</a>
+                <ul class="dropdown-menu">
+                   <li><a href="#">easy</a></li>               
+                   <li><a href="#">medium</a></li>            
+                   <li><a href="#">hard</a></li>                               
+                </ul>
+        </div>
+    </div>
+
+  <div class="col-sm-2">
+        <div class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ingredients</a>
+                <ul class="dropdown-menu">
+                   <li><a href="#">meat</a></li>               
+                   <li><a href="#">fish</a></li>            
+                   <li><a href="#">salad</a></li>                               
+                </ul>
+        </div>
+    </div>
+</div>
+
+<div class="row" id="seasons_recipes">
+
+	<div class="col-md-12">
+		<div class="thumbnail">
+		    <a><img ng-src="http://www.nomasdemama.com/wp-content/uploads/2014/07/IMG_3253_1.jpg"></a>
+		    <div class="caption">
+                <h3>Title food</h3>
+                <p>Pour-over kitsch forage hella sustainable selfies. Cray try-hard lomo plaid. Butcher williamsburg crucifix kale chips.</p>
+            </div><!-- end caption -->
+		</div><!-- end thumbnail-->
+	</div><!--end col 3-->
+</div><!-- end seasons -->

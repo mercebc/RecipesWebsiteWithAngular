@@ -1,0 +1,81 @@
+{
+    "recipes": [
+            {
+            "recipeID" : "1",
+            "recipePicture" : "http://www.nomasdemama.com/wp-content/uploads/2014/07/IMG_3253_1.jpg",
+            "recipeRate" : "5",
+            "recipeName" : "Peach puff pastry tart with almonds",
+            "recipeSeason" : "Summer",
+            "recipeCourse" : "Dessert",
+            "recipeDifficulty" : "Easy",
+            "recipeServes" : "8",
+            "recipeIngredients" : [
+                { "ingredient" : "Flour", "quantity" : "1kg"},
+                { "ingredient" : "Water", "quantity" : "200ml"},
+                { "ingredient" : "Oil", "quantity" : "100ml"}
+            ],      
+            "recipeMethod" : "Heat oven to 200C/180C fan/gas 6. Line a large baking tray with baking parchment. On a lightly floured surface, roll out the pastry to a 3mm thickness. Cut a circle about 33cm in diameter with a sharp knife, using a plate or anything round as a guide. Using the rolling pin, transfer to the baking tray and score a circle 1cm in from the edge.
+                Bake in the oven for 12-15 mins until lightly puffed and golden. Remove from the oven and gently push the centre down with the back of a large spoon so that you have a flat base with a raised border.
+                Meanwhile, halve and stone the peaches, then slice thinly. In a bowl, beat together the butter, sugar, ground almonds, egg, lemon zest, almond extract and sherry, if using. Spread the frangipane evenly over the pastry, leaving the border free. Top with the peach slices, neatly overlapping them in circles. Sprinkle over the remaining sugar and the flaked almonds.
+                Bake for 30 mins, then turn the oven down to 180C/160C fan/gas 4, cover the tart lightly with foil and cook for a further 30-40 mins. The frangipane should puff up between the peaches and be golden brown and set in the centre. Cool on a wire rack, then slice and serve. Leftovers will keep for 1 day."
+        },{
+            "recipeID" : "2",
+            "recipePicture" : "http://www.nomasdemama.com/wp-content/uploads/2014/07/IMG_3253_1.jpg",
+            "recipeRate" : "5",
+            "recipeName" : "This is my second RECIPE",
+            "recipeSeason" : "Autumn",
+            "recipeCourse" : "",
+            "recipeDifficulty" : "Easy",
+            "recipeServes" : "8",
+            "recipeIngredients" : [
+                { "ingredient" : ""},
+                { "ingredient" : ""},
+                { "ingredient" : ""}
+            ],      
+            "recipeMethod" : ""     
+        },{
+            "recipeID" : "3",
+            "recipePicture" : "http://www.nomasdemama.com/wp-content/uploads/2014/07/IMG_3253_1.jpg",
+            "recipeRate" : "5",
+            "recipeName" : "",
+            "recipeSeason" : "Winter",
+            "recipeCourse" : "",
+            "recipeDifficulty" : "Easy",
+            "recipeServes" : "8",
+            "recipeIngredients" : [
+                { "ingredient" : ""},
+                { "ingredient" : ""},
+                { "ingredient" : ""}
+            ],      
+            "recipeMethod" : ""      
+        },{
+            "recipeID" : "4",
+            "recipeRate" : "5",
+            "recipeName" : "",
+            "recipeSeason" : "Spring",
+            "recipeCourse" : "",
+            "recipeDifficulty" : "Easy",
+            "recipeServes" : "8",
+            "recipeIngredients" : [
+                { "ingredient" : ""},
+                { "ingredient" : ""},
+                { "ingredient" : ""}
+            ],      
+            "recipeMethod" : ""        
+        },{
+           "recipeID" : "5",
+           "recipePicture" : "http://www.nomasdemama.com/wp-content/uploads/2014/07/IMG_3253_1.jpg",
+            "recipeName" : "",
+            "recipeSeason" : "Summer",
+            "recipeCourse" : "",
+            "recipeDifficulty" : "Easy",
+            "recipeServes" : "8",
+            "recipeIngredients" : [
+                { "ingredient" : ""},
+                { "ingredient" : ""},
+                { "ingredient" : ""}
+            ],      
+            "recipeMethod" : ""      
+        }
+    ]
+}
